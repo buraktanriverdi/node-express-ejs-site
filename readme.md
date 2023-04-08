@@ -6,7 +6,7 @@ This is a simple web application built with Node.js, Express, and EJS templating
 To use this application, clone the repository and install the dependencies:
 
 ```
-git clone https://github.com/your-username/node-express-ejs-site.git
+git clone https://github.com/buraktanriverdi/node-express-ejs-site.git
 cd node-express-ejs-site
 npm install
 ```
