@@ -1,0 +1,10 @@
+<section id="slider">
+    <div class="slider-container">
+      <% data.sliderImages.forEach((image) => { %>
+        <div class="slider-image">
+          <img src="<%= image.src %>" alt="<%= image.alt %>">
+        </div>
+      <% }) %>
+    </div>
+  </section>
+  
